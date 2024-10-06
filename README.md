@@ -1,5 +1,7 @@
 # Prework Study Guide Webpage
 
+https://pauletters.github.io/prework-study-guide/
+
 ## Description
 
 This Study Guide was created to help those new to coding to better understand the basics.  It should inform interested learners on entry level concepts related to HTML, CSS, Git, and JavaScript.
